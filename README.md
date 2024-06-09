@@ -6,11 +6,18 @@
 <br />
 📚 Bachelor's Degree in Informatics Engineering @ ISEP.
 <br />
+☁️ AWS Certified Solutions Architect Associate.
+<br />
 ☁️ AWS Certified Cloud Practitioner.
 
-<a target='_blank' href="https://eduardocouto.dev">Check my Portfolio Webpage 🌐</a>
+## 🌐 Portfolio:
+<p>
+Dive into my web development journey, showcasing projects built with TypeScript, React, Java, Node.js, and more. Discover how I leverage modern tools like Kubernetes and Postgres to create efficient, scalable applications. Check out my work and see how I can help bring your ideas to life!
+</p>
 
-## 🌐 Contacts:
+👉 <a target="_blank" href="https://eduardocouto.dev">eduardocouto.dev</a>
+
+## ✉️ Contacts:
 
 <p>
     I'm eager to connect with like-minded professionals to exchange insights, explore potential collaborations, and foster meaningful connections.
@@ -19,7 +26,7 @@
 
 <a href="mailto:contacts@eduardocouto.dev">💼 Business Email: contacts@eduardocouto.dev</a>
 <br />
-<a href="mailto:ecouto93@gmail.com">✉️ Personal Email: ecouto93@gmail.com</a>
+<a href="mailto:ecouto93@gmail.com">🙎‍♂️ Personal Email: ecouto93@gmail.com</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ribeiro-couto/)
 
