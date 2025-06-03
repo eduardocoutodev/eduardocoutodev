@@ -8,6 +8,8 @@
 <br />
 ☁️ AWS Certified Solutions Architect Associate.
 <br />
+☁️ AWS Certified Developer Associate.
+<br />
 ☁️ AWS Certified Cloud Practitioner.
 
 ## 🌐 Portfolio:
@@ -56,4 +58,4 @@ Dive into my web development journey, showcasing projects built with TypeScript,
 
 # 📊 GitHub Stats:
 
-![Eduardo Couto Github stats](https://github-readme-stats.vercel.app/api?username=Eduardoooxd&show_icons=true&theme=dark)
+![Eduardo Couto Github stats](https://github-readme-stats.vercel.app/api?username=eduardocoutodev&show_icons=true&theme=dark)
